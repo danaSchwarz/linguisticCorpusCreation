@@ -135,7 +135,6 @@ def process_text(input_text):
                     verb_lemma, verb_type, token_name, verb_numero, verb_persona, verb_tense, verb_modo, has_nsubj, pron, this_nsubj, satz))
 
 
-# Verb Objekt
 class WordObject:
     def __init__(self, verb_lemma, verb_type, verb_name, verb_num, verb_pers, verb_tense, verb_modo, verb_nsubj, pron, verb_this_nsubj, sentence):
         self.verb_lemma = verb_lemma
