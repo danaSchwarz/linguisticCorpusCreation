@@ -3,7 +3,7 @@
 1.: Thesis_Spanish_La expresión del sujeto en las redes sociales.pdf:
     The original seminar thesis in spanish
 
-2.: Thesis_summary_English.pdf:
+2.: Thesis_summary_linguistic_corpus_creation_english_version.pdf:
     A short paper in english explaining the key elements of the thesis, the tools that were used and the result of the study etc. for people without prior linguistic     knowledge 
 
 3.: spacy_process.py:
